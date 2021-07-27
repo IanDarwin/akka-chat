@@ -1,0 +1,9 @@
+= akka-chat
+
+A simple demo of the structure of a Chat program.
+Code originally from Chat Program example on https://docs.akka.io/docs/akka/current/typed/actors.html
+
+To be more realistic, should not shut down after the first message is sent.
+
+To be more realistic, should have two or more clients, sending multiple messages
+and showing that they propagate to all clients.
